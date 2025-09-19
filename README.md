@@ -44,7 +44,7 @@ Flux de données :
 
 ### Composants Principaux
 
-1. **Serveur FastAPI** (`server_simple.py`)
+1. **Serveur FastAPI** (`nlp_motor.py`)
    - Point d'entrée principal
    - Gestion des requêtes HTTP
    - Configuration CORS
